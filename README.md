@@ -1,2 +1,2 @@
 # reactjs
-Reactjs project
+It is the random quote genetor using APL
