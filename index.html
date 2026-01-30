@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Daily Inspiration</title>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <div class="background-decoration">
+      <div class="blob blob-1"></div>
+      <div class="blob blob-2"></div>
+    </div>
+
+    <main class="main-content">
+      <header class="header">
+        <h1>Daily Inspiration</h1>
+        <p>Find wisdom that speaks to your soul</p>
+      </header>
+
+      <div class="quote-card">
+        <svg class="quote-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+          <path d="M3 21c3 0 7-1 7-8V5c0-1.25-.756-2.017-2-2H4c-1.25 0-2 .75-2 1.972V11c0 1.25.75 2 2 2 1 0 1 0 1 1v1c0 1-1 2-2 2s-1 .008-1 1.031V21z"/>
+          <path d="M15 21c3 0 7-1 7-8V5c0-1.25-.757-2.017-2-2h-4c-1.25 0-2 .75-2 1.972V11c0 1.25.75 2 2 2h.75c0 2.25.25 4-2.75 4v3z"/>
+        </svg>
+        
+        <blockquote id="quote-text"></blockquote>
+        
+        <footer class="quote-footer">
+          <span class="accent-line"></span>
+          <cite id="quote-author"></cite>
+        </footer>
+        
+        <div class="gradient-accent"></div>
+      </div>
+
+      <div class="button-container">
+        <button id="new-quote-btn" class="btn-generate">
+          <svg class="sparkle-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+            <path d="m12 3-1.912 5.813a2 2 0 0 1-1.275 1.275L3 12l5.813 1.912a2 2 0 0 1 1.275 1.275L12 21l1.912-5.813a2 2 0 0 1 1.275-1.275L21 12l-5.813-1.912a2 2 0 0 1-1.275-1.275L12 3Z"/>
+          </svg>
+          <span>New Quote</span>
+        </button>
+      </div>
+    </main>
+
+    <footer class="page-footer">
+      <p>Click for a new perspective</p>
+    </footer>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
