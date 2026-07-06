@@ -1,4 +1,4 @@
-# 💬 Quote Generator
+#  Quote Generator
 
 A simple and elegant **Quote Generator** built using **HTML, CSS, and JavaScript**. The application displays random inspirational and motivational quotes with a single click, providing users with a clean and engaging experience.
 
@@ -6,13 +6,13 @@ A simple and elegant **Quote Generator** built using **HTML, CSS, and JavaScript
 
 ## ✨ Features
 
-- 🎲 Generate Random Quotes
-- 💡 Inspirational & Motivational Quotes
-- ⚡ Instant Quote Refresh
-- 🎨 Clean and Modern User Interface
-- 📱 Fully Responsive Design
-- 🚀 Fast and Lightweight
-- 🖱️ One-Click Quote Generation
+-  Generate Random Quotes
+-  Inspirational & Motivational Quotes
+-  Instant Quote Refresh
+-  Clean and Modern User Interface
+-  Fully Responsive Design
+-  Fast and Lightweight
+-  One-Click Quote Generation
 
 ---
 
@@ -37,9 +37,8 @@ quote-generator/
 
 ---
 
-## 📸 Preview
+## 
 
-> Add a screenshot or GIF of your project here.
 
 Example:
 
@@ -76,14 +75,14 @@ No installation or additional dependencies are required.
 
 ## 🌟 Future Improvements
 
-- 📤 Share Quote to Social Media
-- ❤️ Save Favorite Quotes
-- 🌙 Dark Mode
-- 🔍 Search Quotes
-- 🏷️ Quote Categories
-- 👤 Display Author Images
-- 📚 Larger Quote Collection
-- 🔄 API Integration for Live Quotes
+-  Share Quote to Social Media
+-  Save Favorite Quotes
+-  Dark Mode
+-  Search Quotes
+-  Quote Categories
+-  Display Author Images
+-  Larger Quote Collection
+-  API Integration for Live Quotes
 
 ---
 
