@@ -4,7 +4,7 @@ A simple and elegant **Quote Generator** built using **HTML, CSS, and JavaScript
 
 ---
 
-## ✨ Features
+##  Features
 
 -  Generate Random Quotes
 -  Inspirational & Motivational Quotes
@@ -64,7 +64,7 @@ No installation or additional dependencies are required.
 
 ---
 
-## 🎯 How It Works
+##  How It Works
 
 1. Open the application.
 2. Click the **Generate Quote** button.
@@ -73,7 +73,7 @@ No installation or additional dependencies are required.
 
 ---
 
-## 🌟 Future Improvements
+## Future Improvements
 
 -  Share Quote to Social Media
 -  Save Favorite Quotes
@@ -99,7 +99,7 @@ This project helped me improve my understanding of:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome!
 
@@ -112,7 +112,7 @@ If you'd like to improve this project:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 ### Rupesh Kharal
 
