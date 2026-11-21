@@ -16,7 +16,7 @@ A simple and elegant **Quote Generator** built using **HTML, CSS, and JavaScript
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 - HTML5
 - CSS3
@@ -48,7 +48,7 @@ Example:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Clone the Repository
 
